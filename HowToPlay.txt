@@ -1,0 +1,16 @@
+Buzzwire yra žaidimas, kuriame žaidėjas turi įveikti kliūtis, judant metaliniu kabliu, neleidžiant kabliui paliesti kito metalo. 
+
+Žaidimo taisyklės:
+Žaidėjas turi nuo pradžios taško laikydamas kablį pravesti jį per kliūtis taip, kad metalinės dalys nesusiliestų.
+Žaidėjas pradeda žaidimą laikydamas vieną galą kablio. Kita galas turėtų yra pritvirtintas prie dėžės, ir kablys turi judėti per kliūtis.
+
+Tikslas:
+Žaidėjo tikslas yra pereiti su kabliu nuo pradinio taško iki pabaigos taško be prilietimo kito metalinio paviršiaus.
+
+Baigimo sąlygos:
+Žaidimas baigiasi, kai žaidėjas pasiekia pabaigos tašką arba kai priliečia metalinį paviršiu su kabliu ir taip pralaimi.
+
+Pralaimėjimas:
+Jeigu žaidėjas priliečia kabliu metalinį paviršių jis pralaimi. Taip pat, yra nustatytas laiko apribojimas. Jeigu žaidėjas nespėja per nustatytą laiką pereiti žaidimo jis taip pat pralaimi.
+
+Po žaidimo žaidėjas arba kiti žaidėjai gali pabandyti dar kartą. Galite keisti taisykles arba pridėti naujų iššūkių, kad padidintumėte žaidimo sudėtingumą.
