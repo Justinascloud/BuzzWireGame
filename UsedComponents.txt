@@ -1,0 +1,8 @@
+Projektui naudoti komponentai:
+1. 1x Arduino UNO board
+2. 1x Buzzer / piezo speaker
+3. 2x 0.2 Ohm resistor
+4. 1x Servo Motor
+5. 2x LED
+6. 1x Breadboard
+7. 1x Button
